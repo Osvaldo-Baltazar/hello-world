@@ -1,0 +1,7 @@
+E:\Osvaldo\Programacion orientada a objetos\Conversiones 2\Conversiones 2\bin\Debug\Conversiones 2.exe.config
+E:\Osvaldo\Programacion orientada a objetos\Conversiones 2\Conversiones 2\bin\Debug\Conversiones 2.exe
+E:\Osvaldo\Programacion orientada a objetos\Conversiones 2\Conversiones 2\bin\Debug\Conversiones 2.pdb
+E:\Osvaldo\Programacion orientada a objetos\Conversiones 2\Conversiones 2\obj\Debug\Conversiones 2.csprojAssemblyReference.cache
+E:\Osvaldo\Programacion orientada a objetos\Conversiones 2\Conversiones 2\obj\Debug\Conversiones 2.csproj.CoreCompileInputs.cache
+E:\Osvaldo\Programacion orientada a objetos\Conversiones 2\Conversiones 2\obj\Debug\Conversiones 2.exe
+E:\Osvaldo\Programacion orientada a objetos\Conversiones 2\Conversiones 2\obj\Debug\Conversiones 2.pdb
