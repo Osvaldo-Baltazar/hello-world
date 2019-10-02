@@ -1,0 +1,7 @@
+D:\Osvaldo\Programacion orientada a objetos\Calcular Area\Calcular Area\bin\Debug\Calcular Area.exe.config
+D:\Osvaldo\Programacion orientada a objetos\Calcular Area\Calcular Area\bin\Debug\Calcular Area.exe
+D:\Osvaldo\Programacion orientada a objetos\Calcular Area\Calcular Area\bin\Debug\Calcular Area.pdb
+D:\Osvaldo\Programacion orientada a objetos\Calcular Area\Calcular Area\obj\Debug\Calcular Area.csprojAssemblyReference.cache
+D:\Osvaldo\Programacion orientada a objetos\Calcular Area\Calcular Area\obj\Debug\Calcular Area.csproj.CoreCompileInputs.cache
+D:\Osvaldo\Programacion orientada a objetos\Calcular Area\Calcular Area\obj\Debug\Calcular Area.exe
+D:\Osvaldo\Programacion orientada a objetos\Calcular Area\Calcular Area\obj\Debug\Calcular Area.pdb
