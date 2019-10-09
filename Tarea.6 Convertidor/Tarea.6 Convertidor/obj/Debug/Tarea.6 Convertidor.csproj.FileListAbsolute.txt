@@ -1,0 +1,7 @@
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Tarea.6 Convertidor\Tarea.6 Convertidor\bin\Debug\Tarea.6 Convertidor.exe.config
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Tarea.6 Convertidor\Tarea.6 Convertidor\bin\Debug\Tarea.6 Convertidor.exe
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Tarea.6 Convertidor\Tarea.6 Convertidor\bin\Debug\Tarea.6 Convertidor.pdb
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Tarea.6 Convertidor\Tarea.6 Convertidor\obj\Debug\Tarea.6 Convertidor.csprojAssemblyReference.cache
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Tarea.6 Convertidor\Tarea.6 Convertidor\obj\Debug\Tarea.6 Convertidor.csproj.CoreCompileInputs.cache
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Tarea.6 Convertidor\Tarea.6 Convertidor\obj\Debug\Tarea.6 Convertidor.exe
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Tarea.6 Convertidor\Tarea.6 Convertidor\obj\Debug\Tarea.6 Convertidor.pdb
