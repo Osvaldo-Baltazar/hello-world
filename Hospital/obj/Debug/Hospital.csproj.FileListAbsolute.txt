@@ -1,0 +1,7 @@
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Hospital\bin\Debug\Hospital.exe.config
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Hospital\bin\Debug\Hospital.exe
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Hospital\bin\Debug\Hospital.pdb
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Hospital\obj\Debug\Hospital.exe
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Hospital\obj\Debug\Hospital.pdb
