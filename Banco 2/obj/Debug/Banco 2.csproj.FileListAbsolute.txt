@@ -1,0 +1,14 @@
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\bin\Debug\Banco 2.exe.config
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\bin\Debug\Banco 2.exe
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\bin\Debug\Banco 2.pdb
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\obj\Debug\Banco 2.csprojAssemblyReference.cache
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\obj\Debug\Banco 2.csproj.CoreCompileInputs.cache
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\obj\Debug\Banco 2.exe
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\obj\Debug\Banco 2.pdb
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\bin\Debug\Banco 2.exe.config
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\bin\Debug\Banco 2.exe
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\bin\Debug\Banco 2.pdb
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\obj\Debug\Banco 2.csprojAssemblyReference.cache
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\obj\Debug\Banco 2.csproj.CoreCompileInputs.cache
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\obj\Debug\Banco 2.exe
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\Banco 2\obj\Debug\Banco 2.pdb
