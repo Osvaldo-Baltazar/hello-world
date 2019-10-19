@@ -1,0 +1,14 @@
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\bin\Debug\TodoList.exe.config
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\bin\Debug\TodoList.exe
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\bin\Debug\TodoList.pdb
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\obj\Debug\TodoList.csprojAssemblyReference.cache
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\obj\Debug\TodoList.exe
+E:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\obj\Debug\TodoList.pdb
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\obj\Debug\TodoList.csprojAssemblyReference.cache
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\obj\Debug\TodoList.csproj.CoreCompileInputs.cache
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\obj\Debug\TodoList.exe
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\obj\Debug\TodoList.pdb
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\bin\Debug\TodoList.exe.config
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\bin\Debug\TodoList.exe
+D:\Osvaldo\Programacion orientada a objetos\Unidad 3\TodoList\TodoList\bin\Debug\TodoList.pdb
