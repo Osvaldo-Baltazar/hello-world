@@ -1,0 +1,7 @@
+D:\Osvaldo\Programacion orientada a objetos\Unidad 4\T02. Interfaces\obj\Debug\T02. Interfaces.csprojAssemblyReference.cache
+D:\Osvaldo\Programacion orientada a objetos\Unidad 4\T02. Interfaces\obj\Debug\T02. Interfaces.csproj.CoreCompileInputs.cache
+D:\Osvaldo\Programacion orientada a objetos\Unidad 4\T02. Interfaces\bin\Debug\T02.Interfaces.exe.config
+D:\Osvaldo\Programacion orientada a objetos\Unidad 4\T02. Interfaces\bin\Debug\T02.Interfaces.exe
+D:\Osvaldo\Programacion orientada a objetos\Unidad 4\T02. Interfaces\bin\Debug\T02.Interfaces.pdb
+D:\Osvaldo\Programacion orientada a objetos\Unidad 4\T02. Interfaces\obj\Debug\T02.Interfaces.exe
+D:\Osvaldo\Programacion orientada a objetos\Unidad 4\T02. Interfaces\obj\Debug\T02.Interfaces.pdb
