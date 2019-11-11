@@ -1,0 +1,7 @@
+C:\Users\dany1\source\repos\Gasolineria\Gasolineria\bin\Debug\Gasolineria.exe.config
+C:\Users\dany1\source\repos\Gasolineria\Gasolineria\bin\Debug\Gasolineria.exe
+C:\Users\dany1\source\repos\Gasolineria\Gasolineria\bin\Debug\Gasolineria.pdb
+C:\Users\dany1\source\repos\Gasolineria\Gasolineria\obj\Debug\Gasolineria.csprojAssemblyReference.cache
+C:\Users\dany1\source\repos\Gasolineria\Gasolineria\obj\Debug\Gasolineria.csproj.CoreCompileInputs.cache
+C:\Users\dany1\source\repos\Gasolineria\Gasolineria\obj\Debug\Gasolineria.exe
+C:\Users\dany1\source\repos\Gasolineria\Gasolineria\obj\Debug\Gasolineria.pdb
