@@ -1,0 +1,11 @@
+C:\Users\vicen\source\repos\TodoData1\obj\Debug\TodoData1.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\TodoData1\obj\Debug\TodoData1.FrmData.resources
+C:\Users\vicen\source\repos\TodoData1\obj\Debug\TodoData1.Properties.Resources.resources
+C:\Users\vicen\source\repos\TodoData1\obj\Debug\TodoData1.csproj.GenerateResource.cache
+C:\Users\vicen\source\repos\TodoData1\bin\Debug\TodoData1.exe.config
+C:\Users\vicen\source\repos\TodoData1\bin\Debug\TodoData1.exe
+C:\Users\vicen\source\repos\TodoData1\bin\Debug\TodoData1.pdb
+C:\Users\vicen\source\repos\TodoData1\obj\Debug\TodoData1.exe
+C:\Users\vicen\source\repos\TodoData1\obj\Debug\TodoData1.pdb
+C:\Users\vicen\source\repos\TodoData1\obj\Debug\TodoData1.FrmMain.resources
+C:\Users\vicen\source\repos\TodoData1\obj\Debug\TodoData1.FrmDataPrint.resources
